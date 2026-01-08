@@ -18,7 +18,7 @@ public class Course {
 
     public void setCourseId(String courseId) {
         this.courseId = courseId;
-    }
+}
 
     public String getCourseName() {
         return courseName;
